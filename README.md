@@ -1,7 +1,3 @@
-# omnibank-agents-architecture
-Bank-grade agentic AI architecture for regulated banking: control-plane orchestration, policy-as-code gating, tool-agent execution, and immutable audit trails.
-
-
 # 🏦 OmniBank Agents Architecture (v1.3)  
 **The AI Operating System for Regulated Banking — Policy-Grounded, Auditable, Execution-Safe**  
 **Designed & Presented by [Ganesh Prasad Bhandari](https://www.linkedin.com/in/ganesh-prasad-bhandari-b165b9187/)**
